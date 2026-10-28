@@ -1,0 +1,9 @@
+# environnement virtuel
+.venv/
+
+# données du challenge (consigne : ne pas les mettre dans le dépôt)
+data/
+
+# fichiers temporaires
+__pycache__/
+.ipynb_checkpoints/
