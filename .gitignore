@@ -1,7 +1,6 @@
 # environnement virtuel
 .venv/
 
-# données du challenge (consigne : ne pas les mettre dans le dépôt)
 data/
 
 # fichiers temporaires
